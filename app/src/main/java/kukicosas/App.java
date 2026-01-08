@@ -9,14 +9,7 @@ package kukicosas;
 
 public class App {
     
+      
 
-    public static void main(String[] args) {
-    
-//Sistem.out.println(*saludo 2*);
-//Sistem.out.println(*saludo 3*);
-//sistem.out.println(saludo 4*);
+hola kukicosas 
 
-for (int i=1; i <=4;i++ ){
-    Sistem.out.println(*saludo *+i);
-    
-}
